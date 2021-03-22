@@ -1,6 +1,6 @@
-#Analysis and exemplary implementation of the sales business process 
+# Analysis and exemplary implementation of the sales business process 
 
-##Abstract
+## Abstract
 The work aims to analyze an exemplary sales process, to develop a set of activities that characterize this process and its implementation in tools selected based on the analysis of available IT solutions.
 
 The work begins with an in-depth description of terminology, notation and tools related to the field of business processes. An important element was to emphasize the advantages of using this type of solution. Based on literature and research, a seven-step sales process was selected as the starting point for the analysis. The description of activities that are part of this process was the basis for the preparation of sample procedures and diagrams.
